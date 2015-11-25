@@ -258,6 +258,7 @@ section.success a.active {
     margin-top: -12px;
     text-align: center;
     font-size: 25px;
+	font-weight: 999;
     color: #18bc9c;
 }
 
